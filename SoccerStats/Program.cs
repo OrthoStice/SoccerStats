@@ -22,7 +22,7 @@ namespace SoccerStats
                     Console.SetIn(reader);
                     Console.WriteLine(Console.ReadLine());
                     Console.WriteLine("Shelley Rocks!");
-                    Console.WriteLine("Branching Rocks! Part Deux");
+                    Console.WriteLine("Branching Rocks! Part Tres!");
                 }
 
                 Console.ReadLine();
